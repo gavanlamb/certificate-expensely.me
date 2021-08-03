@@ -1,4 +1,3 @@
 ﻿environment="Production"
-region="ap-southeast-2"
+region="us-east-1"
 domain_name="expensely.me"
-expensely_loadbalancer_name="expensely"
